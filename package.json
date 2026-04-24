@@ -1,0 +1,14 @@
+{
+  "name": "sv20-push-project",
+  "version": "1.0.0",
+  "description": "MIS Year III Push Code Project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Phann",
+  "license": "ISC",
+  "dependencies": {}
+}
